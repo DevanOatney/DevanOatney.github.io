@@ -7,4 +7,7 @@ categories: jekyll update
 Second Post
 
 <script src="/assets/js/main.js"></script>
-<img id="swapImage" src="/assets/img/Laharl_DS.jpg" alt="Test" height="64" width="64">
+<img id="swapImage" src="/assets/img/Laharl_DS.jpg" alt="Test"  style = "float:right" height="128" width="128">
+<audio src="/assets/audio/thedangeroussummer.mp3" controls>
+<p>Your browser does not support the audio element.</p>
+</audio>
