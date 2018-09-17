@@ -1,0 +1,13 @@
+{
+"companyName": "Crowd Control Studios",
+"productName": "Magnum Opus : World's End",
+"dataUrl": "WorldsEnd.data.unityweb",
+"asmCodeUrl": "WorldsEnd.asm.code.unityweb",
+"asmMemoryUrl": "WorldsEnd.asm.memory.unityweb",
+"asmFrameworkUrl": "WorldsEnd.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
